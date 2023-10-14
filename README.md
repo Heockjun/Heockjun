@@ -8,10 +8,12 @@
 - 📝 My portfolio is [link~](link~)
 
 - 💬 Ask me about **0731jun@naver.com**
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heockjun&show_icons=true&locale=en" alt="heockjun" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heockjun&show_icons=true&locale=en&layout=compact" alt="heockjun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heockjun&show_icons=true&locale=en" alt="heockjun" /></p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
