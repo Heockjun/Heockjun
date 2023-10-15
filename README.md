@@ -5,7 +5,7 @@
 
 - ✏ I’m currently learning **node.js**
 
-- 📝 My portfolio is https://portfolio-142lwzoqy-heockjun.vercel.app/
+- 📝 My portfolio is https://next-js-portfolio-jade.vercel.app/
 
 - 💬 Ask me about **0731jun@naver.com**
 
